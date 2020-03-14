@@ -1,6 +1,6 @@
 # Pandemic Workflow 
 
-Pandemic workflow based on what we saw in China , HK, South Korea, Taiwan. By knowing the stage that you are in it will help calm people down and encourage your family, friends and government to do something. 
+Pandemic workflow and sequence of events based on what we saw in China , HK, South Korea, Taiwan. By knowing the stage that you are in it will help calm people down and encourage your family, friends and government to do something. 
 
 1) Oh shit moment this is serious
    * panic
