@@ -57,15 +57,21 @@ Decontamination
    * hospitals
    * theaters
 
+Repeat stages 3-5 until the virus has been fully contained
+
+
 ### STAGE 6
 
-Starting to go back to normal. 
+Starting to go back to normal, the virus is fully contained 
 
    * stores, factories, shops start to open 
    * schools start to go back to normal
+   * minimal amount of new infections and goign down. 
 
+### STAGE 7
 
-Repeat stages 3-5 until the virus has been fully contained then slowly go into stage 6  
+Back to normal! 
+
 
 [Look up countries](Countries.md)
 
