@@ -9,7 +9,7 @@ simple covid19 informational repo
 
 ## Regional Contributors
 
-Looking for contributors to cover the different regions. 
+Looking for contributors to cover all different regions. 
 
 | Country  | Name  | Since |
 |---|---|---|
