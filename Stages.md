@@ -2,6 +2,8 @@
 
 Pandemic workflow and sequence of events based on what we saw in China , HK, South Korea, Taiwan. By knowing the stage that you are in it will help calm people down and encourage your family, friends and government to do something. 
 
+[Look up your own country](Countries.md)
+
 1) Oh Shit Moment 
    * this is serious
    * panic
@@ -42,10 +44,8 @@ Pandemic workflow and sequence of events based on what we saw in China , HK, Sou
 
 Repeat 3-5 until the virus is gone
 
+[Look up countries](Countries.md)
 
-| Country  | State  |   
-|---|---|
-| US  | 2-3  |  
-| Mexico | 0-1 |  
-| Chile | 0-1 |   
+
+ 
 
