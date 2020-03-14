@@ -57,7 +57,15 @@ Decontamination
    * hospitals
    * theaters
 
-Repeat 3-5 until the virus is gone
+### STAGE 6
+
+Starting to go back to normal. 
+
+   * stores, factories, shops start to open 
+   * schools start to go back to normal
+
+
+Repeat stages 3-5 until the virus has been fully contained then slowly go into stage 6  
 
 [Look up countries](Countries.md)
 
