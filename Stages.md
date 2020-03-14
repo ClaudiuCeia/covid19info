@@ -1,6 +1,6 @@
 # Pandemic Stages 
 
-Pandemic stages and sequence of events based on what we saw in China , HK, South Korea, Taiwan. By knowing the stage that you are in it will help calm people down and encourage your family, friends and government to do something. 
+Pandemic stages and sequence of events based on what we saw in China , HK, South Korea, Taiwan. By knowing the stage that you are in it will help calm people down and encourage your family, friends and government to take action. 
 
 [Look up your own country](Countries.md)
 
