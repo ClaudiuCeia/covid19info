@@ -4,6 +4,8 @@ Pandemic stages and sequence of events based on what we saw in China , HK, South
 
 [Look up your own country](Countries.md)
 
+[Look up the different testing areas](Testing.md)
+
 ### STAGE 0
 
 Generally Oblivious

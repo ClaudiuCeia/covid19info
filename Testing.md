@@ -2,6 +2,10 @@
 
 This will contain all the testing locations based on country and region
 
+[Look up your own country](Countries.md)
+
+[Look up the different stages](Stages.md)
+
 ## North America
 
 | Country  | Address |   
