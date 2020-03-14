@@ -26,12 +26,14 @@ Oh Shit Moment
 
 ### STAGE 2
 
-Mass Containment
+Mass Containment  
 
    * social distance
    * shutdown schools, concerts, all social gatherings 
    * online school, remote working
    * people are actually listening and learning
+
+Prevent hospitals from getting overwhelmed 
 
 ### STAGE 3
 
