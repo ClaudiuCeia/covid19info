@@ -2,9 +2,11 @@
 
 Pandemic stages and sequence of events based on what we saw in China , HK, South Korea, Taiwan. By knowing the stage that you are in it will help calm people down and encourage families, friends and government to take action. 
 
-[Look up your own country](Countries.md)
+[Home](README.md)
 
-[Look up the different testing areas](Testing.md)
+[Countries](Countries.md)
+
+[Testing](Testing.md)
 
 ### STAGE 0
 

@@ -1,8 +1,8 @@
 # US
 
-[Back to Countries](../Countries.md#north-america)
+**[<< Back to Countries](../Countries.md#north-america)**
 
-[Back to Home](../README.md)
+[Home](../README.md)
 
 This includes a historical view of all meaninful events and stage changes at the government and private level. 
 

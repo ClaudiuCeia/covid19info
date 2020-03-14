@@ -2,9 +2,11 @@
 
 The stage of each country based on the workflow stage
 
-[Look up the different stages](Stages.md)
+[Home](README.md)
 
-[Look up the different testing areas](Testing.md)
+[Stages](Stages.md)
+
+[Testing](Testing.md)
 
 ## North America
 
