@@ -4,6 +4,10 @@ Pandemic stages and sequence of events based on what we saw in China , HK, South
 
 [Look up your own country](Countries.md)
 
+### STAGE 0
+
+Generally Oblivious
+
 ### STAGE 1
 
 Oh Shit Moment 
