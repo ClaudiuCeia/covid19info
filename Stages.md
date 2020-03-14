@@ -8,7 +8,7 @@ Pandemic stages and sequence of events based on what we saw in China , HK, South
 
 ### STAGE 0
 
-Generally Oblivious
+Generally Oblivious, minimal effort
 
 ### STAGE 1
 

@@ -10,7 +10,7 @@ The stage of each country based on the workflow stage
 
 | Country  | Stage  |   
 |---|---|
-| US  | 2-3  | 
+| [US](/Countries/US.md)  | 2-3  | 
 | Canada  | 2-3  |
 
 ## South America
