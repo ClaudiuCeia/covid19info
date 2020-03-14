@@ -44,7 +44,7 @@ Repeat 3-5 until the virus is gone
 
 
 | Country  | State  |   
-|---|---|---|---|---|
+|---|---|
 | US  | 2-3  |  
 | Mexico | 0-1 |  
 | Chile | 0-1 |   
