@@ -14,6 +14,8 @@ This includes a historical view of all meaninful events and stage changes at the
    * Conservative news media mostly skeptical intially and believed it was perpetraited by the liberal media
    * Stage 1 period was more dramatic due to the amount of hysteria shared thorugh news outlets which contributed to the increasing skeptism. 
 
+## History
+
 | From  |  To | Stage  | Government | Private |  
 |---|---|---|---|---|
 | 1/1 | 1/31  | 0 | N/A | N/A |

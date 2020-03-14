@@ -27,6 +27,8 @@ The stage of each country based on the workflow stage
 | Country  | Stage  |   
 |---|---|
 | Italy | 1-2 |  
+| Austria | 1-2 | 
+| Denmark | 1-2 |   
 
 ## Asia
 
