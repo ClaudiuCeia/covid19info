@@ -1,6 +1,6 @@
 # US
 
-**[<< Back to Countries](../Countries.md#north-america)**
+**[Back](../Countries.md#north-america)**
 
 [Home](../README.md)
 
